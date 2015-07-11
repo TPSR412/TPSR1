@@ -1,2 +1,0 @@
-this is a sample log file
-which will be excluded
